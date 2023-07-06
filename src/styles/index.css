@@ -1,4 +1,16 @@
-
+img{
+    width: 80px;
+    margin-top: 10px;
+}
+h1{
+    color: #8b5e8b;
+    font-size: 80px;
+}
+.col {
+    background: #f1daec;
+    margin: 10px;
+    text-align: center;
+}
 /* 
 
     You can write your own styles here...
